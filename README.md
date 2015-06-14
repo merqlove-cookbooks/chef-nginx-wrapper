@@ -1,6 +1,6 @@
-# stunnel-wrapper
+# nginx-wrapper
 
 ## Usage
 
-include_recipe 'stunnel-wrapper'
+include_recipe 'nginx-wrapper'
 
