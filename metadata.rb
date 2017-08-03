@@ -4,6 +4,6 @@ maintainer_email 'sasha@merqlove.ru'
 license 'all_rights'
 description 'Installs/Configures nginx'
 long_description 'Installs/Configures nginx'
-version '1.1.0'
+version '1.1.1'
 
-depends 'chef_nginx', '6.0.2'
+depends 'chef_nginx', '6.1.1'
